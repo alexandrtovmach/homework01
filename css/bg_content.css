@@ -19,9 +19,7 @@
 	content: '';
 	background-color: rgba(255,255,255,0);
 }
-.art_contenttopblock:nth-child(1):hover {
-	background-size: auto 60%;
-}
+
 
 .art_contenttopblock:nth-child(2) {
 	background-image: url('../img/html.png');
@@ -44,9 +42,7 @@
 	content: '';
 	background-color: rgba(255,255,255,0);
 }
-.art_contenttopblock:nth-child(2):hover {
-	background-size: auto 60%;
-}
+
 
 .art_contenttopblock:nth-child(3) {
 	background-image: url('../img/github.png');
@@ -68,9 +64,6 @@
 .art_contenttopblock:nth-child(3):hover:before {
 	content: '';
 	background-color: rgba(255,255,255,0);
-}
-.art_contenttopblock:nth-child(3):hover {
-	background-size: auto 60%;	
 }
 
 .art_contenttopblock:nth-child(4) {
@@ -94,9 +87,7 @@
 	content: '';
 	background-color: rgba(255,255,255,0);
 }
-.art_contenttopblock:nth-child(4):hover {
-	background-size: auto 60%;
-}
+
 
 .art_contenttopblock:nth-child(5) {
 	background: url('../img/mongodb.png');
@@ -119,9 +110,7 @@
 	content: '';
 	background-color: rgba(255,255,255,0);
 }
-.art_contenttopblock:nth-child(5):hover {
-	background-size: auto 60%;	
-}
+
 
 .art_contenttopblock:nth-child(6) {
 	background-image: url('../img/nodejs.png');
@@ -144,6 +133,6 @@
 	content: '';
 	background-color: rgba(255,255,255,0);
 }
-.art_contenttopblock:nth-child(6):hover {
+.art_contenttopblock:hover {
 	background-size: auto 60%;
 }
