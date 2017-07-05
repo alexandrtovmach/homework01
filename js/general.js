@@ -1,5 +1,5 @@
 function init() {
-	vertAlign();
+	
 }
 function logoAnim() {
 	var elem = document.getElementById('textAnim');

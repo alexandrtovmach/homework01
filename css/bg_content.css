@@ -3,6 +3,7 @@
 	background-size: auto 50%;
 	background-repeat: no-repeat;
 	background-position: right bottom;
+	transition: 0.4s;
 }
 .art_contenttopblock:nth-child(1):before {
 	content: '';
@@ -19,6 +20,7 @@
 	background-color: rgba(255,255,255,0);
 }
 .art_contenttopblock:nth-child(1):hover {
+	background-size: auto 60%;
 }
 
 .art_contenttopblock:nth-child(2) {
@@ -26,6 +28,7 @@
 	background-size: auto 50%;
 	background-repeat: no-repeat;
 	background-position: right bottom;
+	transition: 0.4s;
 }
 .art_contenttopblock:nth-child(2):before {
 	content: '';
@@ -42,7 +45,7 @@
 	background-color: rgba(255,255,255,0);
 }
 .art_contenttopblock:nth-child(2):hover {
-	
+	background-size: auto 60%;
 }
 
 .art_contenttopblock:nth-child(3) {
@@ -50,6 +53,7 @@
 	background-size: auto 50%;
 	background-repeat: no-repeat;
 	background-position: right bottom;
+	transition: 0.4s;
 }
 .art_contenttopblock:nth-child(3):before {
 	content: '';
@@ -66,7 +70,7 @@
 	background-color: rgba(255,255,255,0);
 }
 .art_contenttopblock:nth-child(3):hover {
-	
+	background-size: auto 60%;	
 }
 
 .art_contenttopblock:nth-child(4) {
@@ -74,6 +78,7 @@
 	background-size: auto 50%;
 	background-repeat: no-repeat;
 	background-position: right bottom;
+	transition: 0.4s;
 }
 .art_contenttopblock:nth-child(4):before {
 	content: '';
@@ -90,7 +95,7 @@
 	background-color: rgba(255,255,255,0);
 }
 .art_contenttopblock:nth-child(4):hover {
-	
+	background-size: auto 60%;
 }
 
 .art_contenttopblock:nth-child(5) {
@@ -98,6 +103,7 @@
 	background-size: auto 50%;
 	background-repeat: no-repeat;
 	background-position: right bottom;
+	transition: 0.4s;
 }
 .art_contenttopblock:nth-child(5):before {
 	content: '';
@@ -114,7 +120,7 @@
 	background-color: rgba(255,255,255,0);
 }
 .art_contenttopblock:nth-child(5):hover {
-	
+	background-size: auto 60%;	
 }
 
 .art_contenttopblock:nth-child(6) {
@@ -122,6 +128,7 @@
 	background-size: auto 50%;
 	background-repeat: no-repeat;
 	background-position: right bottom;
+	transition: 0.4s;
 }
 .art_contenttopblock:nth-child(6):before {
 	content: '';
@@ -138,5 +145,5 @@
 	background-color: rgba(255,255,255,0);
 }
 .art_contenttopblock:nth-child(6):hover {
-	
+	background-size: auto 60%;
 }
