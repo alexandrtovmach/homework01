@@ -1,0 +1,142 @@
+.art_contenttopblock:nth-child(1) {
+	background-image: url('../img/css.png');
+	background-size: auto 50%;
+	background-repeat: no-repeat;
+	background-position: right bottom;
+}
+.art_contenttopblock:nth-child(1):before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(255,255,255,0.2);
+	transition: 0.4s;
+}
+.art_contenttopblock:nth-child(1):hover:before {
+	content: '';
+	background-color: rgba(255,255,255,0);
+}
+.art_contenttopblock:nth-child(1):hover {
+}
+
+.art_contenttopblock:nth-child(2) {
+	background-image: url('../img/html.png');
+	background-size: auto 50%;
+	background-repeat: no-repeat;
+	background-position: right bottom;
+}
+.art_contenttopblock:nth-child(2):before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(255,255,255,0.2);
+	transition: 0.4s;
+}
+.art_contenttopblock:nth-child(2):hover:before {
+	content: '';
+	background-color: rgba(255,255,255,0);
+}
+.art_contenttopblock:nth-child(2):hover {
+	
+}
+
+.art_contenttopblock:nth-child(3) {
+	background-image: url('../img/github.png');
+	background-size: auto 50%;
+	background-repeat: no-repeat;
+	background-position: right bottom;
+}
+.art_contenttopblock:nth-child(3):before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(255,255,255,0.2);
+	transition: 0.4s;
+}
+.art_contenttopblock:nth-child(3):hover:before {
+	content: '';
+	background-color: rgba(255,255,255,0);
+}
+.art_contenttopblock:nth-child(3):hover {
+	
+}
+
+.art_contenttopblock:nth-child(4) {
+	background-image: url('../img/js.png');
+	background-size: auto 50%;
+	background-repeat: no-repeat;
+	background-position: right bottom;
+}
+.art_contenttopblock:nth-child(4):before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(255,255,255,0.2);
+	transition: 0.4s;
+}
+.art_contenttopblock:nth-child(4):hover:before {
+	content: '';
+	background-color: rgba(255,255,255,0);
+}
+.art_contenttopblock:nth-child(4):hover {
+	
+}
+
+.art_contenttopblock:nth-child(5) {
+	background: url('../img/mongodb.png');
+	background-size: auto 50%;
+	background-repeat: no-repeat;
+	background-position: right bottom;
+}
+.art_contenttopblock:nth-child(5):before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(255,255,255,0.2);
+	transition: 0.4s;
+}
+.art_contenttopblock:nth-child(5):hover:before {
+	content: '';
+	background-color: rgba(255,255,255,0);
+}
+.art_contenttopblock:nth-child(5):hover {
+	
+}
+
+.art_contenttopblock:nth-child(6) {
+	background-image: url('../img/nodejs.png');
+	background-size: auto 50%;
+	background-repeat: no-repeat;
+	background-position: right bottom;
+}
+.art_contenttopblock:nth-child(6):before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(255,255,255,0.2);
+	transition: 0.4s;
+}
+.art_contenttopblock:nth-child(6):hover:before {
+	content: '';
+	background-color: rgba(255,255,255,0);
+}
+.art_contenttopblock:nth-child(6):hover {
+	
+}
