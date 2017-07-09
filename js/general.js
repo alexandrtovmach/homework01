@@ -1,6 +1,3 @@
-function init() {
-	
-}
 function logoAnim() {
 	var elem = document.getElementById('textAnim');
 	var words = ['2017', 'be better', 'b', 'bst', 'best start for smart', 'javascript', 'thank you for a chance', 'hardcore summer'];

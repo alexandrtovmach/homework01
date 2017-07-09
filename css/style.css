@@ -170,6 +170,9 @@ a {
 	justify-content: space-around;
 	background: linear-gradient(to left, #5d80b1 50%, transparent 90%);
 }
+.art_contentbottom h2 {
+	flex: 1 0 100%;	
+}
 .art_contentbottomblock {
 	flex: 1 1 auto;
 	margin: 20px;
